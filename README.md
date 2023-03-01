@@ -1,9 +1,5 @@
 Hi, My name is Emre Güler
 =======================
-
-Cyber Security Engineer 🥷🏻
-------------------------
-
 * 🦾🤖 I am a graduate of Mechatronics Engineering.
 * 🥷🏼 I am working as a OT/ICS Cyber Security Engineer.
 * 💻 I'm dealing with software as a hobby.
