@@ -40,7 +40,3 @@ Hi, My name is Emre Güler
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/emregulerr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emregulerr&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### If You Want To Support Me
-
-<a href="https://www.buymeacoffee.com/ostp"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
