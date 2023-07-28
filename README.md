@@ -1,7 +1,7 @@
 Hi, My name is Emre Güler
 =======================
 * 🦾🤖 I am a Mechatronics Engineer.
-* 🥷🏼 I am working as an SOC(Security Operations Center)Automation Engineer
+* 🥷🏼 I am working as an SOC (Security Operations Center) Automation Engineer
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ My other hobbies are football and cycling.
 
