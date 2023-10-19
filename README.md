@@ -1,7 +1,7 @@
 Hi, My name is Emre Güler
 =======================
 * 🦾 I am a Cyber Security Engineer.
-* 🥷🏼 I am working as an SOC Automation Engineer
+* 🥷🏼 I am working as an Senior Cyber Security Automation Engineer
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ My other hobbies are football and cycling.
 
