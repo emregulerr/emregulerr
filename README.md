@@ -7,7 +7,7 @@ Hi, My name is Emre Güler
 
 * I have competencies such as PHP, Python, Node.JS, C/C#/C++ and Codeigniter.
 
-* 🌍🇹🇷 I live in İzmir, Türkiye
+* 🌍🇹🇷 I live in Türkiye
 * 📧 You can contact me at emreguler8@icloud.com
 * 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity.
 * 💻 Please give me feedback and suggestions to improve myself in programming.
