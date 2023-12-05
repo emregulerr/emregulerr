@@ -3,10 +3,7 @@ Hi, My name is Emre Güler
 
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ My other hobbies are football and cycling.
-
 * I have competencies such as PHP, Python, Node.JS, C/C#/C++ and Codeigniter.
-
-* 🌍🇹🇷 I live in Türkiye
 * 📧 You can contact me at emreguler8@icloud.com
 * 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity.
 * 💻 Please give me feedback and suggestions to improve myself in programming.
