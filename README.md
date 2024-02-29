@@ -6,10 +6,10 @@ Hi, My name is Emre Guler
 * ⚽️🚴🏼‍♂️ Other things I like to do are walking, board and console games, football and cycling.
 * 🇪🇸 I'm currently trying to learn the Spanish language and culture
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
-* 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity. 
 * 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.
 * 👉🏻🔗 https://github.com/emregulerr/ostp
 * 💻 Please feel free to give me feedback and suggestions, and feel free to ask for feedback yourself, as I have high confidence that this will contribute greatly to our success.
+* 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity. 
 * 📧 You can contact me at emreguler8@icloud.com
 * 📌 If you want to follow me on social media, you can view my accounts on the left side of my profile.
 
