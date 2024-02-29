@@ -6,7 +6,7 @@ Hi, My name is Emre Guler
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
 * 📧 You can contact me at emreguler8@icloud.com
 * 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity.
-* 💻 Please feel free to give me feedback and suggestions, and feel free to ask for feedback yourself, as I have high confidence that this will contribute greatly to our success.
+* 💻 Please feel free to give me feedback and suggestions, and feel free to ask for feedback yourself, as I have high confidence that this will contribute greatly to our success. 
 * 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.
 * 👉🏻🔗 https://github.com/emregulerr/ostp
 
