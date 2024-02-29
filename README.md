@@ -4,6 +4,7 @@ Hi, My name is Emre Guler
 * 🦉 As a Senior Cyber Security Automation Engineer in the Technology Solution and Detection Engineering Team in the Finance Sector, I produce automation solutions that will reduce manual work in detection and intervention processes.
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ Other things I like to do are walking, board and console games, football and cycling.
+* 🇪🇸 I'm currently trying to learn the Spanish language and culture
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
 * 📧 You can contact me at emreguler8@icloud.com
 * 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity.
