@@ -2,7 +2,7 @@ Hi, My name is Emre Guler
 =======================
 
 * 💻 I'm dealing with software as a hobby.
-* ⚽️🚴🏼‍♂️ My other hobbies are football and cycling.
+* ⚽️🚴🏼‍♂️ Other things I like to do are walking, board and console games, football and cycling.
 * I have competencies such as PHP, Python, Node.JS, C/C#/C++ and Codeigniter.
 * 📧 You can contact me at emreguler8@icloud.com
 * 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity.
