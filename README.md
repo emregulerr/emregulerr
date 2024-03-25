@@ -1,10 +1,9 @@
 Hi, My name is Emre Guler
 =======================
 
-* 🦉 As a Senior Cyber Security Automation Engineer in the Technology Solution and Detection Engineering Team in the Finance Sector, I produce automation solutions that will reduce manual work in detection and intervention processes.
+* 🦉 I work as a Cyber Security Engineer in the Financial Sector
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ Other things I like to do are walking, board and console games, football and cycling.
-* 🇪🇸 I'm currently trying to learn the Spanish language and culture
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
 * 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.
 * 👉🏻🔗 https://github.com/emregulerr/ostp
