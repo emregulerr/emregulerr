@@ -1,7 +1,7 @@
 Hi, My name is Emre Guler
 =======================
 
-* 🦉 I work as a Engineer in the Financial Sector
+* 🦉 I am an engineer
 * 💻 I'm dealing with software as a hobby.
 * ⚽️🚴🏼‍♂️ Other things I like to do are walking, board and console games, football and cycling.
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
