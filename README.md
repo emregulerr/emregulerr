@@ -3,7 +3,7 @@ Hi, My name is Emre Guler
 
 * 🦉 I am an engineer
 * 💻 I'm dealing with software as a hobby.
-* ⚽️🚴🏼‍♂️ Other things I like to do include walking, console games, football, tennis, and cycling.
+* ⚽️🎾🚴🏼‍♂️ Other things I like to do include walking, console games, football, tennis, and cycling.
 * I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.
 * 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.
 * 👉🏻🔗 https://github.com/emregulerr/ostp
