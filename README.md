@@ -1,4 +1,4 @@
-Hi, My name is Emre Güler
+Hi, My name is Emre Guler
 =======================
 
 * 🦉 I'm a Cyber ​​Security Engineer
