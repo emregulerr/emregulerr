@@ -4,16 +4,6 @@
 
 <p align="left">* 🦉 I'm a Cyber ​​Security Engineer<br>* 💻 I'm dealing with software as a hobby.<br>* ⚽️🎾🚴🏼‍♂️ Other things I like to do include walking, console games, football, tennis, and cycling.<br>* I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.<br>* 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.<br>* 👉🏻🔗 https://github.com/emregulerr/ostp<br>* 💻 Please feel free to give me feedback and suggestions, and feel free to ask for feedback yourself, as I have high confidence that this will contribute greatly to our success.<br>* 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity. <br>* 📌 If you want to follow me on social media, you can view my accounts on the left side of my profile.</p>
 
-###
-
-<div align="left">
-  <a href="https://t.me/egulernet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">I am actively working...</h3>
 
 ###
