@@ -113,14 +113,8 @@ I'm an Expert Cyber Security Engineer specializing in SOAR, security automation,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emregulerr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="Snake animation" />
-
-###
