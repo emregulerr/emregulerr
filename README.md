@@ -1,52 +1,13 @@
-<h1 align="left">Hey 👋 It's Emre</h1>
+### Hi there 👋, I'm Emre Güler, M.Sc.
+I'm an Expert Cyber Security Engineer specializing in SOAR, security automation, and threat detection. I build solutions to make security operations more efficient and proactive.
 
-###
+- 🔭 I’m currently working on enhancing enterprise defense capabilities at Garanti BBVA Technology.
+- 🌱 I’m currently learning more about advanced cloud security architectures.
+- 💬 Ask me about: **Cortex XSOAR, Python for Security, MITRE ATT&CK, SIEM Engineering**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/emreguler)
 
-<p align="left">* 🦉 I'm a Cyber ​​Security Engineer<br>* 💻 I'm dealing with software as a hobby.<br>* ⚽️🎾🚴🏼‍♂️ Other things I like to do include walking, console games, football, tennis, and cycling.<br>* I have competencies such as PHP, Python, Splunk, Linux, Node.JS, C/C#/C++ and Codeigniter.<br>* 👨🏻‍💻🎮 I have an OSTP (Oyun Salonu Takip Programı) Project that I work on in my spare time. You can visit the link for your feedback and suggestions.<br>* 👉🏻🔗 https://github.com/emregulerr/ostp<br>* 💻 Please feel free to give me feedback and suggestions, and feel free to ask for feedback yourself, as I have high confidence that this will contribute greatly to our success.<br>* 🫱🏻‍🫲🏿 I am open to cooperation in volunteering projects or "beneficial" issues for humanity. <br>* 📌 If you want to follow me on social media, you can view my accounts on the left side of my profile.</p>
-
-<h3 align="left">I am actively working...</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" alt="subversion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<h3 align="left">I have experience...</h3>
-
-###
+**My Tech Stack:**
+`Python` `Cortex XSOAR` `Splunk` `IBM QRadar` `Microsoft Azure` `Claroty`
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
