@@ -113,6 +113,4 @@ I'm an Expert Cyber Security Engineer specializing in SOAR, security automation,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-### 
-
 <img src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="Snake animation" />
