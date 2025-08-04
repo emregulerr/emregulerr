@@ -2,7 +2,7 @@
 I'm an Expert Cyber Security Engineer specializing in SOAR, security automation, and threat detection. I build solutions to make security operations more efficient and proactive.
 
 - 🔭 I’m currently working on enhancing enterprise defense capabilities at Garanti BBVA Technology.
-- 🌱 I’m currently learning more about advanced cloud security architectures.
+- 🌱 I'm currently learning more about AI security and advanced cloud security architectures.
 - 💬 Ask me about: **Cortex XSOAR, Python for Security, MITRE ATT&CK, SIEM Engineering**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/emreguler)
 
