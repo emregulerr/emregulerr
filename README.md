@@ -6,6 +6,8 @@ I'm an Expert Cyber Security Engineer specializing in SOAR, security automation,
 - 💬 Ask me about: **Cortex XSOAR, Python for Security, MITRE ATT&CK, SIEM Engineering**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/emreguler)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ddbb2338-6fdb-48fc-8236-cda4f86adb5d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 **My Tech Stack:**
 `Python` `Cortex XSOAR` `Splunk` `IBM QRadar` `Microsoft Azure` `Claroty`
 
