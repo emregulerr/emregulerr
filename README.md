@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Emre Güler, M.Sc.
+### Hi there 👋, I'm Emre Guler, M.Sc.
 I'm an Expert Cyber Security Engineer specializing in SOAR, security automation, and threat detection. I build solutions to make security operations more efficient and proactive.
 
 - 🔭 I’m currently working on enhancing enterprise defense capabilities at Garanti BBVA Technology.
