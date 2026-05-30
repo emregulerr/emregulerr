@@ -77,14 +77,9 @@ I build the automation layer that makes Security Operations **proactive instead 
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emregulerr&bg_color=0D1117&color=00F5A0&line=00B4D8&point=ffffff&area=true&hide_border=true&v=2" alt="activity graph"/>
 
-</div>
+<br/>
 
-<!-- ============================ SNAKE ============================ -->
-## `~/contribution-graph`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="snake animation"/>
+<img width="95%" src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="contribution snake"/>
 
 </div>
 
