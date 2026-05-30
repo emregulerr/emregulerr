@@ -5,7 +5,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00F5A0&height=200&section=header&text=Emre%20Guler&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Expert%20Cyber%20Security%20Engineer%20·%20SOAR%20%26%20Automation%20·%20Threat%20Detection&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00F5A0&height=200&section=header&text=Emre%20Guler&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Expert%20Cyber%20Security%20Engineer%20%7C%20SOAR%20and%20Automation%20%7C%20Threat%20Detection&descAlignY=58&descSize=16&animation=fadeIn&v=2" alt="header"/>
 
 <a href="https://github.com/emregulerr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=Automating+security+operations+at+scale;Cortex+XSOAR+%2F+SIEM+Engineering+%2F+MITRE+ATT%26CK;Turning+alerts+into+autonomous+response;def+secure()%3A+return+True" alt="typing"/>
@@ -70,14 +70,12 @@ I build the automation layer that makes Security Operations **proactive instead 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=emregulerr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5A0&icon_color=00B4D8&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=emregulerr&hide_border=true&background=0D1117&stroke=00B4D8&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img height="165" src="https://readme-stats-emreguler.vercel.app/api?username=emregulerr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5A0&icon_color=00B4D8&text_color=c9d1d9&bg_color=0D1117&v=2" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=emregulerr&hide_border=true&background=0D1117&stroke=00B4D8&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&v=2" alt="streak"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregulerr&layout=compact&hide_border=true&langs_count=8&title_color=00F5A0&text_color=c9d1d9&bg_color=0D1117" alt="top langs"/>
+<img height="160" src="https://readme-stats-emreguler.vercel.app/api/top-langs/?username=emregulerr&layout=compact&hide_border=true&langs_count=8&title_color=00F5A0&text_color=c9d1d9&bg_color=0D1117&v=2" alt="top langs"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emregulerr&bg_color=0D1117&color=00F5A0&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=emregulerr&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emregulerr&bg_color=0D1117&color=00F5A0&line=00B4D8&point=ffffff&area=true&hide_border=true&v=2" alt="activity graph"/>
 
 </div>
 
