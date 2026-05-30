@@ -1,116 +1,100 @@
-### Hi there 👋, I'm Emre Guler, M.Sc.
-I'm an Expert Cyber Security Engineer specializing in SOAR, security automation, and threat detection. I build solutions to make security operations more efficient and proactive.
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      EMRE GULER · README                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-- 🔭 I’m currently working on enhancing enterprise defense capabilities at Garanti BBVA Technology.
-- 🌱 I'm currently learning more about AI security and advanced cloud security architectures.
-- 💬 Ask me about: **Cortex XSOAR, Python for Security, MITRE ATT&CK, SIEM Engineering**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/emreguler)
+<!-- ============================ HEADER ============================ -->
+<div align="center">
 
-**My Tech Stack:**
-`Python` `Cortex XSOAR` `Splunk` `IBM QRadar` `Microsoft Azure` `Claroty`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00F5A0&height=200&section=header&text=Emre%20Guler&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Expert%20Cyber%20Security%20Engineer%20·%20SOAR%20%26%20Automation%20·%20Threat%20Detection&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" alt="subversion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="magento logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+<a href="https://github.com/emregulerr">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=Automating+security+operations+at+scale;Cortex+XSOAR+%2F+SIEM+Engineering+%2F+MITRE+ATT%26CK;Turning+alerts+into+autonomous+response;def+secure()%3A+return+True" alt="typing"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=emregulerr&label=Profile%20Views&color=00F5A0&style=flat-square" alt="profile views"/>
+<a href="https://linkedin.com/in/emreguler"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Türkiye-E30A17?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaboration-00F5A0?style=flat-square" alt="status"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="Snake animation" />
+<!-- ============================ ABOUT ============================ -->
+## `~/whoami`
+
+```yaml
+name:        Emre Guler, M.Sc.
+role:        Expert Cyber Security Engineer
+company:     Garanti BBVA Technology
+focus:       [ SOAR, Security Automation, Threat Detection, SIEM Engineering ]
+currently:   Engineering autonomous defense playbooks for enterprise SOC
+learning:    AI Security · Cloud Security Architectures · Detection-as-Code
+philosophy:  "Don't just detect — respond automatically."
+ask_me_about: [ Cortex XSOAR, Python for Security, MITRE ATT&CK, SIEM ]
+```
+
+I build the automation layer that makes Security Operations **proactive instead of reactive** — wiring detections, enrichment, and response into playbooks so analysts can focus on what actually matters.
+
+<!-- ============================ STACK ============================ -->
+## `~/tech-stack`
+
+#### 🛡️ Security · SOAR · Detection
+![Cortex XSOAR](https://img.shields.io/badge/Cortex_XSOAR-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C00?style=for-the-badge&logo=mitre&logoColor=white)
+![Claroty](https://img.shields.io/badge/Claroty_OT-1A2B4A?style=for-the-badge&logo=verizon&logoColor=white)
+
+#### 💻 Languages & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ☁️ Cloud & Infrastructure
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔬 Data & Tooling
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<!-- ============================ STATS ============================ -->
+## `~/github-stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=emregulerr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5A0&icon_color=00B4D8&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=emregulerr&hide_border=true&background=0D1117&stroke=00B4D8&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregulerr&layout=compact&hide_border=true&langs_count=8&title_color=00F5A0&text_color=c9d1d9&bg_color=0D1117" alt="top langs"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emregulerr&bg_color=0D1117&color=00F5A0&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=emregulerr&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
+</div>
+
+<!-- ============================ SNAKE ============================ -->
+## `~/contribution-graph`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/emregulerr/emregulerr/output/snake.svg" alt="snake animation"/>
+
+</div>
+
+<!-- ============================ QUOTE ============================ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00B4D8,100:0D1117&height=120&section=footer" alt="footer"/>
+
+<sub>⚡ <i>"Security is a process, not a product."</i> — Bruce Schneier</sub>
+
+</div>
