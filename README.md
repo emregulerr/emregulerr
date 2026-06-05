@@ -26,7 +26,6 @@
 ```yaml
 name:        Emre Guler, M.Sc.
 role:        Expert Cyber Security Engineer
-company:     Garanti BBVA Technology
 focus:       [ SOAR, Security Automation, Threat Detection, SIEM Engineering ]
 currently:   Engineering autonomous defense playbooks for enterprise SOC
 learning:    AI Security · Cloud Security Architectures · Detection-as-Code
