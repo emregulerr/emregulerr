@@ -5,7 +5,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00F5A0&height=200&section=header&text=Emre%20G%C3%BCler&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Expert%20Cyber%20Security%20Engineer%20%7C%20SOAR%20and%20Automation%20%7C%20AI%20Security&descAlignY=58&descSize=16&animation=fadeIn&v=2" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00F5A0&height=200&section=header&text=Emre%20G%C3%BCler&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=MSc.%20Cyber%20Security%20Engineer%20%7C%20SOAR%20and%20Automation%20%7C%20AI%20Security&descAlignY=58&descSize=16&animation=fadeIn&v=2" alt="header"/>
 
 <a href="https://github.com/emregulerr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&lines=Automating+security+operations+at+scale;Cortex+XSOAR+%2F+SIEM+Engineering+%2F+MITRE+ATT%26CK;Turning+alerts+into+autonomous+response;def+secure()%3A+return+True" alt="typing"/>
